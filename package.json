@@ -1,10 +1,12 @@
 {
-    "name": "your-project-name",
+    "name": "Tailwind tutorial",
     "version": "1.0.0",
-    "description": "A short description of your project",
+    "description": "Tailwind base learning",
     "main": "index.js",
+    "operating system": "windows",
     "scripts": {
-        "start": "vite"
+        "start": "vite",
+        "build": "vite build"
     },
     "keywords": [
         "keywords",
@@ -13,7 +15,7 @@
         "your",
         "project"
     ],
-    "author": "Your Name",
+    "author": "Md Sohail Alam",
     "license": "MIT",
     "dependencies": {
         "express": "^4.17.1",
